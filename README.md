@@ -1,6 +1,6 @@
 # Deep Clustering-based Local Outlier Probabilities (DCLOP)
 
-Muhamed Abdulhadi Obied, Fayed F. M. Ghaleb, Aboul Ella Hassanien, Ahmed M. H. Abdelfattah, and Wael Zakaria. [Deep Clustering-based Anomaly Detection and Health Monitoring for Satellite Telemetry] (https://www.mdpi.com/2504-2289/7/1/39).
+Muhamed Abdulhadi Obied, Fayed F. M. Ghaleb, Aboul Ella Hassanien, Ahmed M. H. Abdelfattah, and Wael Zakaria. [Deep Clustering-based Anomaly Detection and Health Monitoring for Satellite Telemetry](https://www.mdpi.com/2504-2289/7/1/39).
 
 DCLOP Version 1
 
